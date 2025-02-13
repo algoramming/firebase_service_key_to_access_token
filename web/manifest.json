@@ -1,11 +1,11 @@
 {
-    "name": "firebase_service_key_to_access_token",
-    "short_name": "firebase_service_key_to_access_token",
+    "name": "Firebase Service Key to Access Token",
+    "short_name": "Firebase Service Key to Access Token",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",
     "theme_color": "#0175C2",
-    "description": "A new Flutter project.",
+    "description": "Firebase Service Key to Access Token",
     "orientation": "portrait-primary",
     "prefer_related_applications": false,
     "icons": [
